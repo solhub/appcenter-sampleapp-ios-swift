@@ -17,7 +17,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             MSCrashes.self,
             MSPush.self,
         ])
-        this is a line that will cause compile time errors
         return true
     }
 
